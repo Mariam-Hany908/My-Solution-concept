@@ -24,7 +24,7 @@ uniqe_titles = set(books.keys())
 
 # sort books
 # key=lambda item : item[1]  is used to To determine on what basis the comparison is made
-#  item[1] تدل علي هختار علي اساس العنصر التاني الي هو عدد الايام
+#  item[1] Indicates the number of days
 # reverse = True : sort in descending order.
 sorted_books = sorted(books.items(),key=lambda item : item[1], reverse=True)
 
