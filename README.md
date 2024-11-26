@@ -1,5 +1,5 @@
 # My-Solution-concept 
-This repository contains solutions to 3 problems and algorithms that I have worked on as part of my studies. Below is a summary of the approach .
+This repository contains solutions to 3 problems and algorithms that I have worked on as part of my studies. Below is a summary of the approach I have taken and links to video explanations for each solution.
 
 ## Approach
 
